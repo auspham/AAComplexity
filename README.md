@@ -2,11 +2,11 @@
 
 > *Created based on Algorithms and Analysis COSC1285 Sem 1 RMIT 2019*
 >
-> <u>If the content is outdated or need to be updated, please feel free to fork :-)</u>
+> <u>If the content is outdated or needed to be updated, please feel free to fork :-)</u>
 
 Live preview: https://austinph.me/AAComplexity/ <br />
-Download: https://github.com/rockmanvnx6/AAComplexity/raw/master/download.pdf <br />
-Edit on your own: https://github.com/rockmanvnx6/AAComplexity/blob/master/edit.md <br />
+Download PDF: https://github.com/rockmanvnx6/AAComplexity/raw/master/download.pdf <br />
+Download MarkDown: https://github.com/rockmanvnx6/AAComplexity/blob/master/edit.md <br />
 
 #### How to edit
 
