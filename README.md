@@ -10,9 +10,9 @@ Download MarkDown: https://github.com/rockmanvnx6/AAComplexity/blob/master/edit.
 
 #### How to edit
 
-I use typora (https://typora.io/). But it should works any Markdown editors that support LaTex
+I use typora (https://typora.io/). But it should works any Markdown editor that supports LaTex.
 
-Setting:
+Settings (typora):
 
 ![image-20190607020125584](README.assets/image-20190607020125584.png)
 
