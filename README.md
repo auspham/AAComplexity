@@ -4,9 +4,9 @@
 >
 > <u>If the content is outdated or need to be updated, please feel free to fork :-)</u>
 
-Live preview: https://austinph.me/AAComplexity/
-Download: https://github.com/rockmanvnx6/AAComplexity/raw/master/download.pdf
-Edit on your own: https://github.com/rockmanvnx6/AAComplexity/blob/master/edit.md
+Live preview: https://austinph.me/AAComplexity/ <br />
+Download: https://github.com/rockmanvnx6/AAComplexity/raw/master/download.pdf <br />
+Edit on your own: https://github.com/rockmanvnx6/AAComplexity/blob/master/edit.md <br />
 
 #### How to edit
 
