@@ -4,7 +4,7 @@
 >
 > <u>If the content is outdated or needed to be updated, please feel free to fork :-)</u>
 
-Live preview: https://austinph.me/AAComplexity/ <br />
+Live preview: https://auspham.dev/AAComplexity/ <br />
 Download PDF: https://github.com/rockmanvnx6/AAComplexity/raw/master/download.pdf <br />
 Download MarkDown: https://github.com/rockmanvnx6/AAComplexity/blob/master/edit.md <br />
 
